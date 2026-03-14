@@ -45,9 +45,9 @@ Data cleaning and preparation were performed in Google Sheets before importing t
 
 The preparation process included:
 
-- Cleaning and standardizing categorical variables (e.g., gender, age group, exercise type)
+- Cleaning and standardizing categorical variables 
 - Handling missing values and replacing undefined categories with appropriate labels
-- Creating midpoint variables for grouped responses (e.g., exercise frequency ranges)
+- Creating midpoint variables for grouped responses including age group and exercise frequency
 - Structuring the dataset into two tables (`clean_data` and `clean_exercise_type`) connected through a respondent identifier
 
 These steps ensured that the dataset could be properly analysed and visualized in Tableau.
