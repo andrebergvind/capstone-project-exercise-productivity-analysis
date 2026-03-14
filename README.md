@@ -17,7 +17,7 @@ The dataset contains anonymous survey responses measuring:
 - exercise frequency
 - exercise intensity
 - exercise type
-- cognitive effects and perceived productivity following exercise
+- cognitive effects and productivity level following exercise
 
 ## Dashboards
 
