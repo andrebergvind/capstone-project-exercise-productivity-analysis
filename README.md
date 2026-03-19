@@ -1,7 +1,12 @@
 # Exercise and Student Cognitive Performance
 
 ## Project Overview
-This project investigates whether physical exercise influences students' perceived cognitive functions and short-term academic productivity.
+This project is derived from my dissertation and investigates whether physical exercise influences students' perceived cognitive functioning and short-term academic productivity. The purpose of this study was to better understand this relationship and provide practical recommendations for students to optimize their exercise habits in order to enhance academic performance.
+The research was initially inspired by my own experiences, where I observed increased cognitive functioning, motivation, and productivity levels immediately following exercise.
+
+## Hypothesis
+The study hypothesised that exercise has an immediate positive effect on one’s cognitive
+behaviour and direct ability to achieve increased academic productivity.
 
 ## Research Questions
 - Does exercise frequency influence productivity?
@@ -83,3 +88,21 @@ The analysis suggests several patterns in the relationship between exercise and 
 - Certain exercise types appear to be associated with higher productivity outcomes, although results vary across respondents.
 
 These findings suggest that physical exercise may play a meaningful role in supporting students’ perceived cognitive performance and short-term academic productivity.
+
+## Final Results
+
+- The majority of participants reported either neutral or positive immediate effects of physical exercise on their cognitive functioning and productivity levels.
+- Swimming and JAMBOX showed the highest perceived productivity levels following exercise; however, these results were based on a single participant and should be interpreted with caution.
+- Calisthenics and weightlifting demonstrated slightly lower average productivity scores, but were supported by a larger and more reliable sample size.
+- Participants engaging in vigorous-intensity exercise and/or training 7–9 hours per week exhibited a slight advantage in reported productivity levels.
+
+## Disclaimer
+
+The wide variation in responses indicates a divided sample: participants who exercise more frequently and report positive effects on cognitive functioning also tend to perceive higher productivity levels. Therefore, it cannot be conclusively determined that all students experience an immediate increase in productivity from physical exercise.
+
+
+## Recommendations
+
+- Students who perceive improved cognitive functioning and productivity after exercise should consider aligning their training sessions with study periods or exams to maximize potential performance benefits.
+- As higher frequency and vigorous-intensity exercise were associated with slightly better productivity outcomes, students may benefit from maintaining a consistent weekly routine (e.g., 7–9 hours per week) to support cognitive and academic performance.
+- Given the variation in results, students should experiment with different types, intensities, and timing of exercise to identify what best enhances their own cognitive functioning and productivity.
