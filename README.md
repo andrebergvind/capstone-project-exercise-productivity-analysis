@@ -79,7 +79,7 @@ Filters allow the analysis to be segmented by demographic variables such as gend
 ## Tableau Workbook
 The packaged Tableau workbook (.twbx) is included in this repository.
 
-## Key Findings
+## Key Insights
 The analysis suggests several patterns in the relationship between exercise and perceived academic productivity:
 
 - Higher exercise frequency is generally associated with higher reported productivity levels.
