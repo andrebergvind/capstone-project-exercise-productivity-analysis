@@ -4,6 +4,8 @@
 This project is derived from my dissertation and investigates whether physical exercise influences students' perceived cognitive functioning and short-term academic productivity. The purpose of this study was to better understand this relationship and provide practical recommendations for students to optimize their exercise habits in order to enhance academic performance.
 The research was initially inspired by my own experiences, where I observed increased cognitive functioning, motivation, and productivity levels immediately following exercise.
 
+This study primarily applies descriptive analysis to summarize participant responses, complemented by exploratory data analysis to identify patterns and relationships between exercise and perceived academic productivity.
+
 ## Hypothesis
 The study hypothesised that exercise has an immediate positive effect on one’s cognitive
 behaviour and direct ability to achieve increased academic productivity.
