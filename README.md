@@ -71,7 +71,7 @@ The dashboards explore:
 Filters allow the analysis to be segmented by demographic variables such as gender, age group, and degree pursued.
 
 ## Descriptive Statistics
-![Dashboard](descriptive_statistics_exercise_and_academic_productivity.png)
+![Dashboard](descriptive_statistics_exercise_and_academic_productivity_analysis.png)
 
 ## Dashboards
 
