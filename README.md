@@ -81,9 +81,9 @@ Following the descriptive overview, relationships between variables were explore
 
 The dashboards explore:
 
-- relationships between exercise behaviour and perceived productivity
-- correlations between cognitive outcomes (energy, stress reduction, motivation) and productivity
-- differences in productivity across exercise types, frequency levels, and intensity
+- Relationships between exercise behaviour and perceived productivity
+- Correlations between cognitive outcomes (energy, stress reduction, motivation) and productivity
+- Differences in productivity across exercise types, frequency levels, and intensity
   
 As the dataset is based on self-reported Likert-scale responses, the analysis focused on observed associations rather than statistical inference.
 
