@@ -61,18 +61,32 @@ The preparation process included:
 These steps ensured that the dataset could be properly analysed and visualized in Tableau.
 
 ## Methodology
-The analysis was conducted using interactive dashboards built in Tableau.
+The analysis was conducted using descriptive statistics and exploratory data analysis (EDA), supported by interactive visualizations developed in Tableau.
+The methodological approach consisted of two main stages: descriptive analysis, and relationship exploration.
+
+The first step involved summarizing the distribution of responses across all key variables to provide an overall understanding of participants’ perceptions.
+
+This included:
+- Calculating average, median, min, and max Likert scores for cognitive and productivity related variables
+- Examining the distribution of responses for each statement
+- Identifying general trends in perceived cognitive effects following exercise
+
+This step provided a baseline overview of how participants perceive the relationship between exercise and cognitive performance.
+
+
+### Descriptive Statistics
+![Dashboard](descriptive_statistics_exercise_and_academic_productivity_analysis.png)
+
+Following the descriptive overview, relationships between variables were explored to identify potential patterns.
 
 The dashboards explore:
 
 - relationships between exercise behaviour and perceived productivity
 - correlations between cognitive outcomes (energy, stress reduction, motivation) and productivity
 - differences in productivity across exercise types, frequency levels, and intensity
+  
+As the dataset is based on self-reported Likert-scale responses, the analysis focused on observed associations rather than statistical inference.
 
-Filters allow the analysis to be segmented by demographic variables such as gender, age group, and degree pursued.
-
-## Descriptive Statistics
-![Dashboard](descriptive_statistics_exercise_and_academic_productivity_analysis.png)
 
 ## Dashboards
 
