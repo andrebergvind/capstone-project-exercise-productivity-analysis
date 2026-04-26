@@ -120,7 +120,8 @@ These findings suggest that physical exercise may play a meaningful role in supp
 
 ## Disclaimer
 
-The wide variation in responses indicates a divided sample: participants who exercise more frequently and report positive effects on cognitive functioning also tend to perceive higher productivity levels. Therefore, it cannot be conclusively determined that all students experience an immediate increase in productivity from physical exercise.
+The wide variation in responses detected in the descriptive statistics indicates a divided sample, where most of the cognitive changes following exercise scored a Max of 5, however, some also showcased a Min of as little as 1.
+Yet, what could be drawn from the exploratory analysis when comparing respondents and their exercise patterns was that participants who exercise more frequently and report positive effects on cognitive functioning also tend to perceive higher productivity levels. Therefore, the data showcases positive trends of exercising more frequently. However, it cannot be conclusively determined that all students experience the same cognitive ouctome from engaging in exercise, resulting in an immediate increase in productivity from physical exercise.
 
 
 ## Recommendations
