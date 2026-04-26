@@ -82,7 +82,8 @@ Filters allow the analysis to be segmented by demographic variables such as gend
 ![Dashboard](dashboard_exercise_productivity.png)
 
 ## Tableau Workbook
-The packaged Tableau workbook (.twbx) is included in this repository.
+**Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+The packaged Tableau workbook (.twbx) is also included in this repository.
 
 ## Key Insights
 The analysis suggests several patterns in the relationship between exercise and perceived academic productivity:
