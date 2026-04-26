@@ -76,7 +76,7 @@ Filters allow the analysis to be segmented by demographic variables such as gend
 ## Dashboards
 
 ### Cognitive Effects of Exercise
-!(dashboard_cognitive_effects.png)
+![Dashboard](dashboard_cognitive_effects.png)
 
 ### Exercise Behaviour and Productivity
 ![Dashboard](dashboard_exercise_productivity.png)
