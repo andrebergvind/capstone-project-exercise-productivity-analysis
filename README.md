@@ -21,7 +21,7 @@ behaviour and direct ability to achieve increased academic productivity.
 - Tableau
 
 ## Data Collection
-The dataset was collected through a survey targeting students. Respondents were presented with a series of statements regarding the cognitive effects they experience following physical exercise.
+The dataset was collected through a survey targeting students aged 18-30. Respondents were presented with a series of statements regarding the cognitive effects they experience following physical exercise.
 
 Participants evaluated each statement using a 5-point Likert scale:
 
@@ -73,6 +73,7 @@ This included:
 
 This step provided a baseline overview of how participants perceive the relationship between exercise and cognitive performance.
 
+## Quantitative Data Analysis
 
 ### Descriptive Statistics
 ![Dashboard](descriptive_statistics_exercise_and_academic_productivity_analysis.png)
@@ -110,13 +111,13 @@ The motives for exercise in relation to academical benefits, the motivation gain
 
 Following the descriptive overview, relationships between variables were explored to identify potential patterns.
 
-The dashboards explore:
+The dashboards below explore:
 
 - Relationships between exercise behaviour and perceived productivity
 - Correlations between cognitive outcomes (energy, stress reduction, motivation) and productivity
 - Differences in productivity across exercise types, frequency levels, and intensity
   
-As the dataset is based on self-reported Likert-scale responses, the analysis focused on observed associations rather than statistical inference.
+As the dataset is based on self-reported Likert-scale responses, the following analysis focused on observed associations rather than statistical inference.
 
 
 ## Dashboards
@@ -132,6 +133,22 @@ As the dataset is based on self-reported Likert-scale responses, the analysis fo
 
 The packaged Tableau workbook (.twbx) is also included in this repository.
 
+## Qualitative Data Analysis
+
+The qualitative component was based on five semi-structured interviews with students aged 18–30 who regularly engage in physical exercise, ranging from recreational to professional levels.
+
+A thematic analysis approach was used to identify patterns in participants’ responses. After familiarizing with the data through repeated review, key excerpts were manually coded and grouped into broader themes reflecting shared perceptions of exercise, productivity, and cognitive behavior.
+
+The findings reveal a strong consensus on the positive impact of physical exercise on mood, stress reduction, and overall well-being. Many participants linked improved mood to enhanced ability to manage academic tasks and long-term performance. For example, several respondents described exercise as a tool for stress relief and mental reset.
+
+However, short-term productivity effects were mixed. Some participants reported increased focus and motivation immediately after exercise, while others experienced fatigue, particularly after intense workouts. A recurring theme was that workout quality influenced outcomes, with satisfying sessions boosting motivation and poor sessions reducing it.
+
+Additionally, a reciprocal relationship emerged between exercise and academic performance, where success in one area positively influenced motivation in the other.
+
+Overall, the qualitative insights complement the quantitative findings by highlighting how individual experiences, workout intensity, and psychological factors shape the relationship between physical activity and productivity.
+
+
+
 ## Key Insights
 The analysis suggests several patterns in the relationship between exercise and perceived academic productivity:
 
@@ -139,8 +156,9 @@ The analysis suggests several patterns in the relationship between exercise and 
 - Cognitive effects such as increased energy and motivation show strong positive relationships with productivity.
 - Reduced stress following exercise also appears to contribute to improved productivity.
 - Certain exercise types appear to be associated with higher productivity outcomes, although results vary across respondents.
+- Responses indicate individual differences, with some participants experiencing neutral or even negative short-term effects.
 
-These findings suggest that physical exercise may play a meaningful role in supporting students’ perceived cognitive performance and short-term academic productivity.
+Overall, the findings suggest that physical exercise can play a meaningful role in supporting students’ perceived cognitive performance and short-term academic productivity, although its impact is not uniform across all individuals.
 
 ## Final Results
 
@@ -149,12 +167,13 @@ These findings suggest that physical exercise may play a meaningful role in supp
 - Calisthenics and weightlifting demonstrated slightly lower average productivity scores, but were supported by a larger and more reliable sample size.
 - Participants engaging in vigorous-intensity exercise and/or training 7–9 hours per week exhibited a slight advantage in reported productivity levels.
 
-## Disclaimer
+### Disclaimer
 
-The wide variation in responses detected in the descriptive statistics indicates a divided sample, where most of the cognitive changes following exercise scored a Max of 5, however, some also showcased a Min of as little as 1.
+The wide variation in responses detected in the descriptive statistics indicates a divided sample, with responses ranging from very low to very high perceived cognitive effects. This highlights that the relationship between exercise and productivity is not uniform.
 
-Yet, what could be drawn from the exploratory analysis when comparing respondents and their exercise patterns was that participants who exercise more frequently and report positive effects on cognitive functioning also tend to perceive higher productivity levels. Therefore, the data showcases positive trends of exercising more frequently. However, it cannot be conclusively determined that all students experience the same cognitive ouctome from engaging in exercise, resulting in an immediate increase in productivity from physical exercise.
+While the analysis indicates a positive trend—where individuals who exercise more frequently and report stronger cognitive benefits also tend to report higher productivity, these findings remain correlational.
 
+Therefore, it can not be conclusively stated that physical exercise leads to immediate productivity improvements for all individuals. Outcomes appear to depend on personal factors, exercise intensity, and individual perception.
 
 ## Recommendations
 
