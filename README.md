@@ -101,10 +101,11 @@ This recorded the lowest mean of 2.81, and median of 3, indicating that the majo
 ### General Impact score
 The general impact score showcased the second most consistent values due to the lowest standard deviation recorded, 0.591. The mean of 4.01 and median of 4, indicates that the majority of the participants generally perceive exercise as having a positive impact on their cognitive behaviour, long term well-being, and overall academic achievements. 
 
-
+### Summary of Scores
 Notably, we can tell that participants generally believe that exercise has a significant positive effect on their overall mood, reduced levels of stress, and increased energy. 
 
 The motives for exercise in relation to academical benefits, the motivation gained from it, and the short-term productivity it leads to however, show lower scores, suggesting that exercise has an insignificant or perhaps even negative impact for some students on the perceived direct academic benefits of physical activity. However, looking at the high standard deviation, the data suggests that the population disagrees regarding these factors, indicating differing perceptions among the participants.
+
 
 
 Following the descriptive overview, relationships between variables were explored to identify potential patterns.
