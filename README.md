@@ -171,7 +171,7 @@ Overall, the findings suggest that physical exercise can play a meaningful role 
 
 The wide variation in responses detected in the descriptive statistics indicates a divided sample, with responses ranging from very low to very high perceived cognitive effects. This highlights that the relationship between exercise and productivity is not uniform.
 
-While the analysis indicates a positive trend—where individuals who exercise more frequently and report stronger cognitive benefits also tend to report higher productivity, these findings remain correlational.
+While the analysis indicates a positive trend, where individuals who exercise more frequently and report stronger cognitive benefits also tend to report higher productivity, these findings remain correlational.
 
 Therefore, it can not be conclusively stated that physical exercise leads to immediate productivity improvements for all individuals. Outcomes appear to depend on personal factors, exercise intensity, and individual perception.
 
