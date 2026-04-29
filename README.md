@@ -77,6 +77,26 @@ This step provided a baseline overview of how participants perceive the relation
 ### Descriptive Statistics
 ![Dashboard](descriptive_statistics_exercise_and_academic_productivity_analysis.png)
 
+####Focus score####
+Participants have reported relatively high levels of focus following exercise, indicating that exercise may contribute to immediate enhanced concentration and increased attention span. The recorded mean of 3.95 and median of 4 suggest that a big part of the population agrees with exercise leading to an enhanced focus, and the standard deviation of 0.687 in this case, suggests that the population is moderately agreeing to the effect of its nature.
+Motivation score
+The motivation score recorded slightly lower levels of perceived impact following exercise as the mean was calculated at 3.64, which however also was close to the median of 4. The standard deviation on the other hand, showed a fairly high number of 0.837, indicating a noticeable lack of consistency within the population of how exercise can boost the willingness to complete academic tasks.
+Stress score
+With the second highest mean of 4.27 and the lowest score in standard deviation, 0.493, a reduced level of stress was unarguably perceived as the factor most positively affected by physical exercise.
+Energy score
+The energy score, entailing both physical and mental energy, was undeniably another factor positively affected following exercise. The mean recorded a value of 4.17, similar to the median of 4, indicating that the main share of the population agreed with exercise having a positive impact on their energy levels. The standard deviation on the other hand showcased a value of 0.719, suggesting some variation in the responses.
+Mood score
+With the highest mean of 4.42, and median of 4.5, the mood score implies that exercise has the strongest positive effect on students’ overall mood and well-being. The standard deviation of 0.643 tells us that the data is fairly consistent, and the main part of the population perceive that exercise improves their overall mood.
+Productivity score
+The productivity score recorded a mean of 3.37, and a median of 3.5, making it one of the lowest average perceived factors following exercise. Generally, the majority of the population seemed to be neutral about its outcome after exercise. The standard deviation however, recorded 0.741, suggesting that opinions are divided regarding this matter.
+Motives score
+This recorded the lowest mean of 2.81, and median of 3, indicating that the majority did not agree with academic productivity being a reason for why they exercise. The standard deviation, however, show the highest variability of 0.996, suggesting that there is a strong disagreement in the population. The large variation tells us that the population perceive different motives for why they exercise, with some participants strongly agreeing, and other strongly disagreeing with the idea that their physical activities are driven by their academic productivity goals.
+General Impact score
+The general impact score showcased the second most consistent values due to the lowest standard deviation recorded, 0.591. The mean of 4.01 and median of 4, indicates that the majority of the participants generally perceive exercise as having a positive impact on their cognitive behaviour, long term well-being, and overall academic achievements. 
+Notably, we can tell that participants generally believe that exercise has a significant positive effect on their overall mood, reduced levels of stress, and increased energy. 
+The motives for exercise in relation to academical benefits, the motivation gained from it, and the short-term productivity it leads to however, show lower scores, suggesting that exercise has an insignificant or perhaps even negative impact for some students on the perceived direct academic benefits of physical activity. However, looking at the high standard deviation, the data suggests that the population disagrees regarding these factors, indicating differing perceptions among the participants.
+
+
 Following the descriptive overview, relationships between variables were explored to identify potential patterns.
 
 The dashboards explore:
